@@ -12,8 +12,8 @@ export default function ValidacionProvisionalPage() {
           <span className="corner bl" />
           <span className="corner br" />
 
-          <div className="shield-wrap" aria-hidden="true">
-            <div className="shield" />
+          <div className="check-circle" aria-hidden="true">
+            <span className="check-mark">✓</span>
           </div>
 
           <div className="divider" aria-hidden="true">
